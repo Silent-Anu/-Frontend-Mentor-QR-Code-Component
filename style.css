@@ -1,0 +1,39 @@
+html {
+    font-family: 'Outfit', sans-serif;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    max-width: 20%;
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    /* Goggle'd a box shadow that matches close enough to the sample design */
+
+}
+
+img {
+    display: flex;
+    max-width: 90%;
+    margin: 5% auto;
+    border-radius: 10px;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    margin: 5% 10%;
+    font-size: 1.5rem;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    margin: 5% 15% 12% 15%;
+}
