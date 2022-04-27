@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/qr-screenshot.PNG)
+![qr_ss](https://github.com/Silent-Anu/-Frontend-Mentor-QR-Code-Component/blob/2fc0681d5b02148ad11f0c40711860090f0a4f6a/images/qr_screenshot.PNG)
 
 ### Links
 
